@@ -23,7 +23,7 @@ using IGG.Framework;
 /// </summary>
 public class DataStorageHelper
 {
-    public const string Default_Url_Path = "https://statics.riabox.com/storage/";
+    public const string Default_Url_Path = "https://statics.riabox.com/storage/123";
 
     //默认战报日志路径
     private static readonly string DefaultBattleLogPath =
